@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingalRDemo", "SingalRDemo\SingalRDemo.csproj", "{8F610A26-007B-4512-B92F-16153C329861}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingnalR_Client", "SingnalR_Client\SingnalR_Client.csproj", "{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{8F610A26-007B-4512-B92F-16153C329861}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F610A26-007B-4512-B92F-16153C329861}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F610A26-007B-4512-B92F-16153C329861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F519D5-B6B9-4BB3-9D64-88268BBE0D25}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
