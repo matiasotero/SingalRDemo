@@ -5,7 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SingalRDemo.Hubs;
 
-namespace SignalRChat
+namespace SingalRDemo
 {
     public class Startup
     {
